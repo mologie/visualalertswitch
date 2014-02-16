@@ -1,0 +1,9 @@
+Package: com.mologie.visualalertswitch
+Name: Visual Alert Flipswitch
+Depends: firmware (>= 6), gsc.camera-flash, com.a3tweaks.flipswitch
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Toggle the LED alert setting available in Preferences->General->Accessibility via Flipswitch.
+Maintainer: Oliver Kuckertz <support+cydia@mologie.com>s
+Author: Oliver Kuckertz <support+cydia@mologie.com>
+Section: Addons (Flipswitch)
