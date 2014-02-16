@@ -1,3 +1,8 @@
+/**
+ * This file is part of VisualAlertSwitch
+ * Copyright 2014 Oliver Kuckertz <oliver.kuckertz@mologie.de>
+ * See COPYING for licensing information.
+ */
 
 #import <CoreFoundation/CoreFoundation.h>
 #import <Flipswitch/Flipswitch.h>
