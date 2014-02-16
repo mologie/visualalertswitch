@@ -7,3 +7,4 @@ Description: Toggle the LED alert setting available in Preferences->General->Acc
 Maintainer: Oliver Kuckertz <support+cydia@mologie.com>s
 Author: Oliver Kuckertz <support+cydia@mologie.com>
 Section: Addons (Flipswitch)
+Priority: optional
