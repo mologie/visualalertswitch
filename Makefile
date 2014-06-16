@@ -9,7 +9,6 @@ VisualAlert_FRAMEWORKS = UIKit
 VisualAlert_LIBRARIES = flipswitch
 VisualAlert_INSTALL_PATH = /Library/Switches
 VisualAlert_CFLAGS = -fobjc-arc
-VisualAlert_LDFLAGS = -Llib
 
 # Use make DEBUG=1 for building binaries which output logs
 DEBUG ?= 0
